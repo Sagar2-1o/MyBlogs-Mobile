@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyBlogs</string>
+    <string name="Blogs">Blogs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcomeBlogs">Welcome to Blogs</string>
+    <string name="welcomepara">Please sign in to your account and start\nthe adventure</string>
+    <string name="email">Email</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="forgotpass">Forgot Password?</string>
+    <string name="signin">Sign In</string>
+    <string name="donthaveacc">Don\'t have an account? Sign in</string>
+    <string name="adventurestart">Adventure Starts here</string>
+    <string name="adventurepara">Please sign-up to your account and start the adventure</string>
+    <string name="username">Username</string>
+    <string name="hint_username">Enter Username</string>
+    <string name="privacypolicy">I agree to the Privacy Policy</string>
+    <string name="Remember">Remember me</string>
+    <string name="asadmin">Sign Up as admin</string>
+    <string name="haveacc">Already have an account? Sign In</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="forgotpara">Enter your registered Email to reset your password.</string>
+    <string name="PostUserName">Abcdef</string>
+    <string name="PostUserStatus">1 mins ago</string>
+    <string name="blogdescription">"When life gives you limes, arrange them in azesty flatlay and create a 'lime-light' masterpiece! "</string>
+    <string name="Home">Home</string>
+    <string name="Profile">Profile</string>
+    <string name="deleteaccount">Delete Account</string>
+    <string name="logoutaccount">Logout</string>
+    <string name="setting">Settings</string>
+    <string name="changepassword">Change Password</string>
+    <string name="loginasadmin">Login as admin</string>
+    <string name="contactus">Contact Us</string>
+    <string name="myprofile">My Profile</string>
+    <string name="uplaodprofile">Upload Profile Picture</string>
+    <string name="name">Name</string>
+    <string name="BlogDetail">Blog Details</string>
+    <string name="addblog">Add Blog</string>
+    <string name="title">Title</string>
+    <string name="hint_title">Enter here</string>
+    <string name="description">Description</string>
+    <string name="Uploadimage">Uplaod Image</string>
+    <string name="submit">Submit</string>
+</resources>
